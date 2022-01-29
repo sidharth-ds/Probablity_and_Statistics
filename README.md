@@ -6,10 +6,10 @@
     - np.random.shuffle(x)
 - Permutation & Combination:
     - import itertools as it, it.permutations(), it.combinations()
-- Normal distribution: (Continuous)
-    - loc = Mean, scale = Standard deviation, variance
 - various Distribution plots:
     - distplot (outdated), displot, kdeplot
+- Normal distribution: (Continuous)
+    - loc = Mean, scale = Standard deviation, variance
 - Binomial distribution: (Discrete)
     - A Binomial Distribution shows either (S)uccess or (F)ailure.
     - used for linear regression data
